@@ -10,4 +10,4 @@ Le JDR Évolution © 2022 par Guillaume Pierson est licensé sous [CC BY-NC-SA 4
 
 #### Princpales
 
-[Catatéristiques Principales](caractéristique\personnages\caractéristique-principale.md)
+[Catatéristiques Principales](caractéristique/personnages/caractéristique-principale.md)

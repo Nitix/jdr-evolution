@@ -1,4 +1,5 @@
 ---
+title: Personnages
 grandparent: true
 ---
 
@@ -12,4 +13,5 @@ grandparent: true
 {:toc}
 
 [Caractéristiques Principales](personnages/caractéristiques-principales.md)
+
 [Métiers](personnages/métiers.md)

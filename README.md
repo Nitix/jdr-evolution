@@ -1,7 +1,7 @@
 ---
-layout: home
 grandparent: true
 nav_order: 1
+permalink: /
 ---
 
 # JDR Évolution

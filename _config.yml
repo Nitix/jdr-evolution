@@ -1,7 +1,7 @@
 #theme: jekyll-theme-leap-day4
 remote_theme: just-the-docs/just-the-docs
 title: JDR Évolution
-color_scheme: dark
+color_scheme: nil
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2

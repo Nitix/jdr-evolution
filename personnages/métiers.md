@@ -9,7 +9,7 @@ parent: Personnages
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 Voici la liste des métiers disponibles pour les aventuriers
 

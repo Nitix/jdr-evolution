@@ -9,7 +9,7 @@ parent: Utilitaire
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ## Réussite critique et échec critique
 

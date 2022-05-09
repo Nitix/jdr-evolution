@@ -1,6 +1,7 @@
 ---
 title: Utilitaire
 grandparent: true
+has_children: true
 ---
 
 # Utilitaire

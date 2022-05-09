@@ -1,4 +1,15 @@
+---
+parent: Personnages
+---
+
 # Métiers
+
+{: .no_toc .text-delta }
+
+## Sommaire
+
+1. TOC
+   {:toc}
 
 Voici la liste des métiers disponibles pour les aventuriers
 

@@ -1,4 +1,15 @@
+---
+parent: Utilitaire
+---
+
 # Comment lire un lancé de dés 🎲
+
+{: .no_toc .text-delta }
+
+## Sommaire
+
+1. TOC
+   {:toc}
 
 ## Réussite critique et échec critique
 

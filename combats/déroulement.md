@@ -1,4 +1,15 @@
+---
+parent: Combats
+---
+
 # Déroulement d'un combat
+
+{: .no_toc .text-delta }
+
+## Sommaire
+
+1. TOC
+   {:toc}
 
 ## Initiative ⏱️
 

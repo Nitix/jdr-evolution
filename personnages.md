@@ -4,7 +4,10 @@ has_children: true
 ---
 
 # Personnages
+{: .no_toc }
 
-[Caractéristiques Principales](personnages/caractéristiques-principales.md)
+## Sommaire
+{: .no_toc .text-delta }
 
-[Métiers](personnages/métiers.md)
+1. TOC
+{:toc}

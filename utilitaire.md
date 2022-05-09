@@ -1,8 +1,13 @@
 ---
+title: Utilitaire
 grandparent: true
-has_children: true
 ---
 
 # Utilitaire
+{: .no_toc }
 
-[Comment lancer les dés 🎲](utilitaires/comment-lire-dés.md)
+## Sommaire
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}

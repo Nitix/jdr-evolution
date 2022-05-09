@@ -3,10 +3,10 @@ parent: Utilitaire
 ---
 
 # Comment lire un lancé de dés 🎲
-
-{: .no_toc .text-delta }
+{: .no_toc }
 
 ## Sommaire
+{: .no_toc .text-delta }
 
 1. TOC
    {:toc}

@@ -8,12 +8,12 @@ Le JDR Évolution © 2022 par Guillaume Pierson est licensé sous [CC BY-NC-SA 4
 
 ### Caractéristiques Principales
 
-[Caractéristiques Principales](docs/personnages/caractéristiques-principales.md)
+[Caractéristiques Principales](personnages/caractéristiques-principales.md)
 
 ### Métiers
 
-[Métiers](docs/personnages/métiers.md)
+[Métiers](personnages/métiers.md)
 
 ## Combats ⚔️
 
-[Déroulement](docs/combats/déroulement.md)
+[Déroulement](combats/déroulement.md)

@@ -3,15 +3,13 @@ parent: Personnages
 ---
 
 # Caractéristiques Principales
-
 {: .no_toc }
 
 ## Sommaire
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 Les personnages, enemies y compris possèdent des caractéristiques principales
 qui définissent leurs forces mais également leurs faiblesses.

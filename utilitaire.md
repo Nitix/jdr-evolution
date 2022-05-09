@@ -1,13 +1,6 @@
 ---
-title: Utilitaire
 grandparent: true
+has_children: true
 ---
 
 # Utilitaire
-{: .no_toc }
-
-## Sommaire
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}

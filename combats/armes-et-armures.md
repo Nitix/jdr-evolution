@@ -32,7 +32,7 @@ Les bonus de défense sont appliqués uniquement si l'arme est équipée, boucli
 
 | Armes | Dégâts | Bonus défense |
 | ----- | ------ | ------------- |
-| Arc   | 6      | 2             |
+| Arc   | 9      | 2             |
 
 ## Armures
 

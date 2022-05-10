@@ -3,13 +3,15 @@ parent: Combats
 ---
 
 # Déroulement d'un combat
+
 {: .no_toc }
 
 ## Sommaire
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}
 
 ## Initiative ⏱️
 
@@ -33,7 +35,7 @@ L'esquive d'une flèche est possible si le personnage fait une réussite critiqu
 
 L'initiative dépends de beaucoup de facteur pour cette raison, cela va se jouer sur un jet de dés 100 🎲. Celui qui a le plus grand nombre frappe en premier à condition qu'il réussisse son attaque.
 
-> En cas de réussite critique l'attaque touche et est imparable.
+> En cas de réussite critique l'attaque touche et est imparable, de plus la moitié de l'armure arrondi au supérieur est ignorée `9 / 2 = 5 d'armure ignorée`
 > Si son opposant fait également une réussite critique, alors les jets ne sont pas considérés comme critique.
 > Mais les combats seront d'une telle beauté.
 

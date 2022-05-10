@@ -2,11 +2,10 @@
 parent: Combats
 ---
 
-<!-- prettier-ignore-start -->
-
 # Armes et Armures
 {: .no_toc }
 
+<!-- prettier-ignore-start -->
 ## Sommaire
 {: .no_toc .text-delta }
 

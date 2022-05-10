@@ -2,11 +2,18 @@
 parent: Combats
 ---
 
-# Armes et Armures {: .no_toc }
+<!-- prettier-ignore-start -->
 
-## Sommaire {: .no_toc .text-delta }
+# Armes et Armures
+{: .no_toc }
 
-1. TOC {:toc}
+## Sommaire
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## Armes 🗡️
 
@@ -32,9 +39,9 @@ Les bonus de défense sont appliqués uniquement si l'arme est équipée, boucli
 
 Les malus d'attaque sont appliqués pour savoir si l'attaque touche. Plus l'armure est lourde plus vos mouvements sont difficile.
 
-| Armes  | Dégâts réduits | Malus d' attaque |
-| ------ | -------------- | ---------------- |
-| Rien   | 0              | 0                |
-| Cuir   | 2              | 5                |
-| Fer    | 4              | 10               |
-| Plaque | 7              | 20               |
+| Armes  | Dégâts réduits | Malus d'attaque |
+| ------ | -------------- | --------------- |
+| Rien   | 0              | 0               |
+| Cuir   | 2              | 5               |
+| Fer    | 4              | 10              |
+| Plaque | 7              | 20              |

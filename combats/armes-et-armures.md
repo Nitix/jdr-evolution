@@ -3,6 +3,7 @@ parent: Combats
 ---
 
 # Armes et Armures
+
 {: .no_toc }
 
 <!-- prettier-ignore-start -->
@@ -20,13 +21,13 @@ Les bonus de défense sont appliqués uniquement si l'arme est équipée, boucli
 
 ### Arme de corps à corps ⚔️
 
-| Armes     | Dégâts | Bonus défense |
-| --------- | ------ | ------------- |
-| Mains nus | 3      | 0             |
-| Dague     | 15     | 5             |
-| Lance     | 14     | 12            |
-| Épée      | 10     | 8             |
-| Bouclier  | 5      | 20            |
+| Armes     | Dégâts | Bonus défense | Malus d'attaque |
+| --------- | ------ | ------------- | --------------- |
+| Mains nus | 3      | 0             |                 |
+| Dague     | 14     | 4             |                 |
+| Lance     | 6      | 12            |                 |
+| Épée      | 10     | 8             |                 |
+| Bouclier  | 4      | 20            | 20              |
 
 ### Armes à distance 🏹
 

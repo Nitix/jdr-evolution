@@ -27,7 +27,8 @@ Les bonus de défense sont appliqués uniquement si l'arme est équipée, boucli
 | Dague     | 14     | 4             |                 |
 | Lance     | 6      | 12            |                 |
 | Épée      | 10     | 8             |                 |
-| Bouclier  | 4      | 20            | 20              |
+| Bouclier  | 2      | 10            | 10              |
+| Pavois    | 4      | 20            | 20              |
 
 ### Armes à distance 🏹
 
@@ -35,7 +36,7 @@ Les bonus de défense sont appliqués uniquement si l'arme est équipée, boucli
 | ----- | ------ | ------------- |
 | Arc   | 9      | 2             |
 
-## Armures
+## Armures 🛡️
 
 Les malus d'attaque sont appliqués pour savoir si l'attaque touche. Plus l'armure est lourde plus vos mouvements sont difficile.
 

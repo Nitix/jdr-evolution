@@ -31,6 +31,10 @@ Commence avec
 | Volonté 🧠      | 10     |
 | Sens 👂         | 7      |
 
+### Équipement de base
+
+Épée et simples habits
+
 ## Archer
 
 Classe de distance, utilise couramment un arc.
@@ -47,6 +51,10 @@ Commence avec
 | Volonté 🧠      | 8      |
 | Sens 👂         | 13     |
 
+### Équipement de base
+
+Arc et simples habits
+
 ## Lancier
 
 Sûrement la classe la plus utilisée.
@@ -62,3 +70,7 @@ Commence avec
 | Constitution ❤️ | 12     |
 | Volonté 🧠      | 9      |
 | Sens 👂         | 10     |
+
+### Équipement de base
+
+Lance et simples habits

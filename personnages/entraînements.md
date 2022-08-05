@@ -2,14 +2,16 @@
 parent: Personnages
 ---
 
-# Métiers
+# Entraînements
+
 {: .no_toc }
 
 ## Sommaire
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}
 
 Voici la liste des métiers disponibles pour les aventuriers
 
@@ -44,3 +46,19 @@ Commence avec
 | Constitution ❤️ | 10     |
 | Volonté 🧠      | 8      |
 | Sens 👂         | 13     |
+
+## Lancier
+
+Sûrement la classe la plus utilisée.
+
+### Création de personnage
+
+Commence avec
+
+| Caractéristique | Points |
+| --------------- | ------ |
+| Force 💪        | 11     |
+| Adresse 🎯      | 8      |
+| Constitution ❤️ | 12     |
+| Volonté 🧠      | 9      |
+| Sens 👂         | 10     |

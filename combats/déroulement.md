@@ -6,12 +6,14 @@ parent: Combats
 
 {: .no_toc }
 
+<!-- prettier-ignore-start -->
 ## Sommaire
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 ## Initiative ⏱️
 

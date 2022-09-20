@@ -3,13 +3,17 @@ parent: Utilitaire
 ---
 
 # Comment lire un lancé de dés 🎲
+
 {: .no_toc }
 
+<!-- prettier-ignore-start -->
 ## Sommaire
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+
+<!-- prettier-ignore-end -->
 
 ## Réussite critique et échec critique
 

@@ -6,12 +6,14 @@ parent: Personnages
 
 {: .no_toc }
 
+<!-- prettier-ignore-start -->
 ## Sommaire
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 Voici la liste des métiers disponibles pour les aventuriers
 

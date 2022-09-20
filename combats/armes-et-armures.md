@@ -27,8 +27,8 @@ Les bonus de défense sont appliqués uniquement si l'arme est équipée, boucli
 | Dague     | 14     | 4             |                 |
 | Lance     | 6      | 12            |                 |
 | Épée      | 10     | 8             |                 |
-| Bouclier  | 2      | 10            | 10              |
-| Pavois    | 4      | 20            | 20              |
+| Bouclier  | 2      | 10            | 5               |
+| Pavois    | 4      | 20            | 10              |
 
 ### Armes à distance 🏹
 
@@ -43,6 +43,6 @@ Les malus d'attaque sont appliqués pour savoir si l'attaque touche. Plus l'armu
 | Armes  | Dégâts réduits | Malus d'attaque |
 | ------ | -------------- | --------------- |
 | Rien   | 0              | 0               |
-| Cuir   | 2              | 5               |
-| Fer    | 4              | 10              |
-| Plaque | 7              | 20              |
+| Cuir   | 2              | 0               |
+| Fer    | 4              | 5               |
+| Plaque | 7              | 10              |

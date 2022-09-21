@@ -19,22 +19,29 @@ parent: Combats
 
 Les bonus de défense sont appliqués uniquement si l'arme est équipée, bouclier compris.
 
+#### Attaque lourde
+
+Ne peut pas attaquer deux fois de suites mais peux se défendre.
+
 ### Arme de corps à corps ⚔️
 
-| Armes     | Dégâts | Bonus défense | Malus d'attaque |
-| --------- | ------ | ------------- | --------------- |
-| Mains nus | 3      | 0             |                 |
-| Dague     | 14     | 4             |                 |
-| Lance     | 6      | 12            |                 |
-| Épée      | 10     | 8             |                 |
-| Bouclier  | 2      | 10            | 5               |
-| Pavois    | 4      | 20            | 10              |
+| Armes             | Dégâts | Bonus défense | Malus d'attaque | Note                                            |
+| ----------------- | ------ | ------------- | --------------- | ----------------------------------------------- |
+| Mains nus         | 3      | 0             |                 |                                                 |
+| Dague             | 14     | 4             |                 | Équipement de bouclier impossible               |
+| Lance             | 6      | 12            |                 |                                                 |
+| Épée              | 10     | 8             |                 |                                                 |
+| Hache             | 10     | 8             |                 |                                                 |
+| Hache à deux main | 24     | 6             |                 | Équipement de pavois impossible, Attaque lourde |
+| Bouclier          | 2      | 10            | 5               |                                                 |
+| Pavois            | 4      | 20            | 10              |                                                 |
 
 ### Armes à distance 🏹
 
-| Armes | Dégâts | Bonus défense |
-| ----- | ------ | ------------- |
-| Arc   | 9      | 2             |
+| Armes    | Dégâts | Bonus défense | Note                                              |
+| -------- | ------ | ------------- | ------------------------------------------------- |
+| Arc      | 9      | 2             |                                                   |
+| Arbalète | 15     | 0             | Lente à recharger prend un tour de plus que l'arc |
 
 ## Armures 🛡️
 

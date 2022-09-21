@@ -56,3 +56,10 @@ Puis on refait l'initiative pour savoir qui frappe.
 >
 > Si l'attaque est critique, disons `96🎲 + 4💪 = 100`, et que la défense fait `90🎲 + 12💪 = 102`.
 > L'attaque est quand même réussite et la défense échouée, un critique est prioritaire.
+
+### Combat inégale
+
+Si lors d'un combat vous avez deux combattants en face de vous, il vous sera impossible de vous défendre de plus d'un opposant. 
+Tous les attaques des autres vous toucheront forcément.
+
+Cependant en grande concentration du joueur, il sera possible de se défendre de plusieurs enemies avec un malus de 20 par enemies supplémentaire de celui attaqué.

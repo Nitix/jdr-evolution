@@ -23,4 +23,4 @@ personnage fasse toutes les actions. Avoir de temps en temps un PNJ ou un joueur
 
 ## Gain de niveau
 
-Le joueur choisit deux caractéristiques et les augmentent de un point chacun.
+Le joueur choisit trois caractéristiques et les augmentent de un point chacun.

@@ -47,4 +47,4 @@ Capacité à détecter des éléments
 
 Lors d'un jet de dé pour une action simple, le joueur doit faire plus que 50, auxquels le MJ peut modifier la valeur avec un bonus ou malus, avec ses dés en ajoutant sa caractéristiques correspondantes demandées de le MJ.
 
-Lors d'un environnement le jet de dés et contre celui de l'environnement.
+Lors d'un environnement dangereux le jet de dés et contre celui de l'environnement.

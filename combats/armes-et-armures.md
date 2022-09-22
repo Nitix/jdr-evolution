@@ -31,7 +31,7 @@ Ne peut pas attaquer deux fois de suites mais peux se défendre.
 | Dague             | 14     | 4             |                 | Équipement de bouclier impossible               |
 | Lance             | 6      | 12            |                 |                                                 |
 | Épée              | 10     | 8             |                 |                                                 |
-| Hache             | 10     | 8             |                 |                                                 |
+| Hache             | 11     | 7             |                 |                                                 |
 | Hache à deux main | 24     | 6             |                 | Équipement de pavois impossible, Attaque lourde |
 | Bouclier          | 2      | 10            | 5               |                                                 |
 | Pavois            | 4      | 20            | 10              |                                                 |

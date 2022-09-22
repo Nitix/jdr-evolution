@@ -23,6 +23,10 @@ Les bonus de défense sont appliqués uniquement si l'arme est équipée, boucli
 
 Ne peut pas attaquer deux fois de suites mais peux se défendre.
 
+#### Lancé d'arme
+
+Quand une arme est lancé, la défense revient à celle des mains nus. En même temps vous n'avez plus l'arme en main, vous l'avez lancés.
+
 ### Arme de corps à corps ⚔️
 
 | Armes                | Dégâts | Bonus défense | Malus d'attaque | Note                                                   |

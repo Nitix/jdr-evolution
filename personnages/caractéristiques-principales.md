@@ -6,12 +6,14 @@ parent: Personnages
 
 {: .no_toc }
 
+<!-- prettier-ignore-start -->
 ## Sommaire
-
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
+
+<!-- prettier-ignore-end -->
 
 Les personnages, enemies y compris possèdent des caractéristiques principales
 qui définissent leurs forces mais également leurs faiblesses.

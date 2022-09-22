@@ -49,7 +49,7 @@ Suite à l'initiative, le joueur ayant la plus haute initiative attaque en premi
 
 Les attaques au corps à corps s’effectuent en lançant un dés 100, vérifient les [critiques](../utilitaire/comment-lire-dés.md) auquel on ajoute le score de force 💪 du personnage.
 
-La défense fait de même avec soit sa Force 💪 pour bloquer une arme, soit sa dextérité 🎯.
+La défense fait de même avec soit sa Force 💪 pour bloquer une arme, soit sa dextérité 🎯 avec un malus de 20.
 
 Puis on refait l'initiative pour savoir qui frappe.
 
@@ -66,7 +66,4 @@ Puis on refait l'initiative pour savoir qui frappe.
 
 ### Combat inégale
 
-Si lors d'un combat vous avez deux combattants en face de vous, il vous sera impossible de vous défendre de plus d'un opposant.
-Tous les attaques des autres vous toucheront forcément.
-
-Cependant en grande concentration du joueur, il sera possible de se défendre de plusieurs enemies avec un malus de 20 par enemies supplémentaire de celui attaqué.
+Si lors d'un combat vous avez deux combattants en face de vous, il est possible de se défendre de plusieurs enemies avec un malus de 20 par enemies supplémentaire de celui attaqué.

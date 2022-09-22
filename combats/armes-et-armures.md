@@ -62,3 +62,6 @@ Les malus d'attaque sont appliqués pour savoir si l'attaque touche. Plus l'armu
 | Cuir   | 2              | 0               |
 | Fer    | 4              | 5               |
 | Plaque | 7              | 10              |
+
+
+22

@@ -24,3 +24,4 @@ personnage fasse toutes les actions. Avoir de temps en temps un PNJ ou un joueur
 ## Dépense de l'expérience gagnée
 
 Le joueur choisit les caractéristiques qu'ils veulent et l'augmente de un point par expérience dépensée.
+Le niveau max des caractéristiques est de 50.

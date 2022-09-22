@@ -25,21 +25,21 @@ Ne peut pas attaquer deux fois de suites mais peux se défendre.
 
 ### Arme de corps à corps ⚔️
 
-| Armes                | Dégâts | Bonus défense | Malus d'attaque | Note                                            |
-| -------------------- | ------ | ------------- | --------------- | ----------------------------------------------- |
-| Mains nus            | 3      | 0             |                 |                                                 |
-| Dague                | 14     | 4             |                 | Équipement de bouclier impossible               |
-| Lance                | 8      | 10            |                 |                                                 |
-| Contus               | 6      | 12            |                 |                                                 |
-| Claymore             | 12     | 6             |                 |                                                 |
-| Morgenstern          | 11     | 7             |                 |                                                 |
-| Marteau à deux mains | 24     | 5             |                 | Équipement de pavois impossible, Attaque lourde |
-| Fléau                | 7      | 9             |                 | Attaque multiple, touche tous les enemies       |
-| Épée                 | 10     | 8             |                 |                                                 |
-| Hache                | 11     | 7             |                 |                                                 |
-| Hache à deux main    | 22     | 7             |                 | Équipement de pavois impossible, Attaque lourde |
-| Bouclier             | 2      | 10            | 5               |                                                 |
-| Pavois               | 4      | 20            | 10              |                                                 |
+| Armes                | Dégâts | Bonus défense | Malus d'attaque | Note                                                   |
+| -------------------- | ------ | ------------- | --------------- | ------------------------------------------------------ |
+| Mains nus            | 3      | 0             |                 |                                                        |
+| Dague                | 9      | 4             |                 | Équipement de bouclier impossible, dégâts x2 si furtif |
+| Lance                | 8      | 10            |                 |                                                        |
+| Contus               | 6      | 12            |                 |                                                        |
+| Claymore             | 12     | 6             |                 |                                                        |
+| Morgenstern          | 11     | 7             |                 |                                                        |
+| Marteau à deux mains | 24     | 5             |                 | Équipement de pavois impossible, Attaque lourde        |
+| Fléau                | 7      | 9             |                 | Attaque multiple, touche tous les enemies              |
+| Épée                 | 10     | 8             |                 |                                                        |
+| Hache                | 11     | 7             |                 |                                                        |
+| Hache à deux main    | 22     | 7             |                 | Équipement de pavois impossible, Attaque lourde        |
+| Bouclier             | 2      | 10            | 5               |                                                        |
+| Pavois               | 4      | 20            | 10              |                                                        |
 
 ### Armes à distance 🏹
 

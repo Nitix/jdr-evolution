@@ -29,10 +29,15 @@ Ne peut pas attaquer deux fois de suites mais peux se défendre.
 | ----------------- | ------ | ------------- | --------------- | ----------------------------------------------- |
 | Mains nus         | 3      | 0             |                 |                                                 |
 | Dague             | 14     | 4             |                 | Équipement de bouclier impossible               |
-| Lance             | 6      | 12            |                 |                                                 |
+| Lance             | 8      | 10            |                 |                                                 |
+| Contus            | 6      | 12            |                 |                                                 |
+| Claymore          | 12     | 6             |                 |                                                 |
+| Morgenstern       | 11     | 7             |                 |                                                 |
+| Marteau à deux    | 24     | 5             |                 | Équipement de pavois impossible, Attaque lourde |
+| Fléau             | 7      | 9             |                 | Attaque multiple, touche tous les enemies       |
 | Épée              | 10     | 8             |                 |                                                 |
 | Hache             | 11     | 7             |                 |                                                 |
-| Hache à deux main | 24     | 6             |                 | Équipement de pavois impossible, Attaque lourde |
+| Hache à deux main | 22     | 7             |                 | Équipement de pavois impossible, Attaque lourde |
 | Bouclier          | 2      | 10            | 5               |                                                 |
 | Pavois            | 4      | 20            | 10              |                                                 |
 

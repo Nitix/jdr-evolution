@@ -29,7 +29,7 @@ avec précision un objet.
 
 ## Constitution ❤️
 
-Représente vos points de vies, la résistance à l'alcool.
+Représente vos points de vies en ajoutant 30 PV de base, la résistance à l'alcool.
 
 ## Volonté 🧠
 
